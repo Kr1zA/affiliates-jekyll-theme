@@ -2,7 +2,7 @@
 layout: page
 title: O nás
 permalink: "/about/"
-image: assets/images/o-nas.png
+image: assets/images/o-nas.jpg
 ---
 
 **HK UPJŠ Košice** bôsobí .... 
