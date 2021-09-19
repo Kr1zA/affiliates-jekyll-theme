@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Beyond the limits"
 categories: [ Beyond]
-image: assets/images/1.jpg
+image: assets/images/beyond/beyond.jpg
 ---
 Školenie „Beyond the limits“ sa uskutočnilo 8 - 17. augusta na Slovensku. Jeho cieľom bolo rozvíjať vodcovské schopnosti pracovníkov s mládežou, sociálnych pracovníkov a mládežníckych lídrov. Vzdelávacie aktivity zároveň posilnili ich kompetencie pre lepšiu spoluprácu, komunikáciu a riešenie problémov súvisiacich s prácou s mládežou.
 Školenie Beyond the limits, spojilo 24 účastníkov z 6 krajín, vrátane Slovenska. Aktivity využívali prístupy neformálneho vzdelávania a zážitkového učenia sa. Keďže išlo o mobilitu pracovníkov s mládežou dôraz bol kladený na využite nadobudnutých vedomostí v praxi – na následný transfer a aplikáciu v lokálnych komunitách zapojených partnerov.
