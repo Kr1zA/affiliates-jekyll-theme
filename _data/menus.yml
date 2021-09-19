@@ -1,16 +1,16 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Domov
   url: ""
 
-- title: About
+- title: O nás
   url: "about/"
 
-- title: Contact
+- title: Kontakt
   url: "contact/"
 
-- title: Get this theme  
+- title: Čo sem dáme? 
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
@@ -18,15 +18,15 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Domov
   url: ""
 
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
+- title: Kontakt
   url: "contact/"
 
-- title: Download
+- title: Na stiahnutie
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
