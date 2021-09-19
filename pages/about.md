@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: O nás
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/o-nas.png
 ---
 
-Pokus o stránku **HK UPJŠ Košice** in action. 
+**HK UPJŠ Košice** bôsobí .... 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Sme partia študentov a nadšencov lezenia.
+Stretávame sa každý štvrtok o 17:00
 
 [Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
 
