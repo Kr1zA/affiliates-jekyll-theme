@@ -7,13 +7,14 @@ topmenu:
 - title: O nás
   url: "about/"
 
-- title: Kontakt
-  url: "contact/"
+# - title: Kontakt
+#   url: "contact/"
 
-- title: Čo sem dáme? 
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Kontakt 
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  url: "contact/"
   class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+#   external: true
 
 # Footer Menu
 footermenu:
@@ -27,6 +28,6 @@ footermenu:
 - title: Kontakt
   url: "contact/"
 
-- title: Na stiahnutie
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+# - title: Na stiahnutie
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+#   external: true
