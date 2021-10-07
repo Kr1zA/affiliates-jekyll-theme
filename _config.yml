@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "/affiliates-jekyll-theme/"
 permalink: "/:title/"
 logo: 'assets/images/logo-m.png'
-#favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/climbing-48.ico'
 author: Sal
 paginate: 30
 disqus: 'nasa_stranka'
