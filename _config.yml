@@ -1,7 +1,7 @@
 title: "HK UPJŠ Košice"
 email: hkupjske@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme/"
+baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo-m.png'
 favicon: 'assets/images/climbing-48.ico'
@@ -22,8 +22,6 @@ sass:
   style: :compressed
 ganalytics: 
 
-imagesurl: "/horolezciUPJSke/galery/"
-thumbsurl: "/horolezciUPJSke/galery/"
 
 social:
   instagram: https://www.instagram.com/hkupjske/
