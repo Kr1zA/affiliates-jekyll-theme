@@ -18,3 +18,8 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        sshfs horolezci@horolezci.upjs.sk: /home/richard_stana/actions-runner/web_backup/horolezci_sshfs/
+        cp -r /home/richard_stana/actions-runner/web_backup/horolezci_sshfs/* /home/richard_stana/actions-runner/web_backup/www_bak/
+        rm -r /home/richard_stana/actions-runner/web_backup/horolezci_sshfs/*
+        cp -r /home/richard_stana/actions-runner/page_horolezci/affiliates-jekyll-theme/affiliates-jekyll-theme/_site/* /home/richard_stana/actions-runner/web_backup/horolezci_sshfs/
+        umount /home/richard_stana/actions-runner/web_backup/horolezci_sshfs/
